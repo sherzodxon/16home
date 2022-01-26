@@ -154,3 +154,46 @@
 .number {
     margin-right: 25px;
 }
+
+.form__container {
+    width: 730px;
+}
+
+.deliveries__summary {
+    background-color: rgb(36, 43, 53);
+    border-radius: 5px;
+    margin-top: 84px;
+}
+
+.summary__title {
+    margin: 0;
+    padding: 0;
+    font-family: Barlow;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    padding-top: 35px;
+    padding-left: 64px;
+}
+
+.summary__content {
+    margin: 0;
+    padding: 0;
+    font-family: Fraunces;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 40px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #FFFFFF;
+    padding:65px;
+    padding-top: 8px;
+}
+.green{
+    color: rgba(14, 135, 132, 1);
+}
